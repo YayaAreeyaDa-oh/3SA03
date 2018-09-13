@@ -2,8 +2,8 @@
   text-align: center;
 }
 .activeCard {
-  color: red;
-  background: pink;
+  color: yellow;
+  background: orange;
  }
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
